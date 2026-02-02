@@ -1,4 +1,4 @@
-# Kola Varun Kumar
+# KOLA VARUN KUMAR
 
 **Android & Backend Developer | Full-Stack Application Builder**
 
